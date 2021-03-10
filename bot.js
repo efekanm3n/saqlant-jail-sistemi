@@ -137,7 +137,7 @@ url: "https://www.twitch.tv/valeriummoderasyon"})
 });
 
 
-client.login(process.env.token);
+client.login(ayarlar.token);
 
 //---------------------------------KOMUTLAR---------------------------------\\
 
