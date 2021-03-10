@@ -1,1 +1,0 @@
-# saqlant-jail-sistemi
